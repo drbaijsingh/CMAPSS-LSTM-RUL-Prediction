@@ -101,3 +101,12 @@ Create a file named **LICENSE** in your repo with:
 
 ```text
 MIT License
+
+## 👤 Author
+
+**Dr. Baij Nath Singh**  
+Machine Learning | Predictive Maintenance | Time-Series Analytics
+
+📌 GitHub: https://github.com/drbaijsingh  
+📌 LinkedIn: https://www.linkedin.com/in/baijns
+
