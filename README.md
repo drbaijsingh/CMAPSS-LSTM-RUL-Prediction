@@ -17,17 +17,11 @@ This repository presents a unified LSTM-based framework for predicting the Remai
 
 The project focuses on correct data parsing, RUL computation, sequence modeling, and NASA-standard engine-wise evaluation.
 
----
-
 ## 📊 Dataset
 - **NASA CMAPSS** (FD001–FD004)
 - Multivariate time-series sensor data
 - Multiple operational and fault conditions
 
-> ⚠️ Raw data is not included due to licensing restrictions.  
-> Instructions for downloading the dataset are provided in the `data/` folder.
-
----
 
 ## 🧠 Methodology
 - Correct CMAPSS parsing (`delim_whitespace=True`)
@@ -45,8 +39,6 @@ The project focuses on correct data parsing, RUL computation, sequence modeling,
 - Fully connected output layer
 
 ---
-
-## ✅ Results Summary
 
 ## ✅ Results Summary
 
