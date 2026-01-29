@@ -63,3 +63,43 @@ These results are comparable with strong baseline models reported in CMAPSS lite
 ---
 
 ## 📁 Repository Structure
+notebooks/ → Jupyter notebooks for each CMAPSS subset (FD001–FD004)
+results/ → Saved plots and metric summaries
+data/ → Instructions for downloading NASA CMAPSS data (no raw data included)
+requirements.txt → Python dependencies
+
+## ▶️ How to Run
+
+✅ 5) Add “How to Run” Block
+
+Right after the structure:
+
+## ▶️ How to Run
+
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/drbaijsingh/CMAPSS-LSTM-RUL-Prediction.git
+
+
+Install dependencies:
+
+pip install -r requirements.txt
+
+
+Download CMAPSS data as documented in data/README.md
+
+Open the appropriate notebook and run
+
+
+This improves usability dramatically.
+
+---
+
+## ✅ 6) Add License (Recommended)
+
+At the bottom add a license badge (you already have one) but also include a simple MIT license text.
+
+Create a file named **LICENSE** in your repo with:
+
+```text
+MIT License
