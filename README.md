@@ -65,9 +65,3 @@ The project emphasizes correct data parsing, RUL computation, sequence modeling,
 ---
 
 ## 📁 Repository Structure
-notebooks/ → Jupyter notebooks for FD001–FD004 experiments
-results/ → Saved plots and metric summaries
-data/ → Dataset download instructions (no raw data included)
-requirements.txt → Python dependencies
-README.md → Project documentation
-LICENSE → Open-source license
