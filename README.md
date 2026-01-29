@@ -36,15 +36,11 @@ The project focuses on correct data parsing, RUL computation, sequence modeling,
 - Sequence generation for LSTM
 - Engine-wise test evaluation (NASA standard)
 
----
-
 ## 🏗 Model Architecture
 - LSTM (100 units)
 - Dropout (0.3)
 - LSTM (50 units)
 - Fully connected output layer
-
----
 
 ## ✅ Results Summary
 
@@ -57,9 +53,6 @@ The project focuses on correct data parsing, RUL computation, sequence modeling,
 
 > Results use NASA standard evaluation (engine-wise).
 
-
----
-
 ## 📁 Repository Structure
 notebooks/ → Jupyter notebooks for each CMAPSS subset (FD001–FD004)
 results/ → Saved plots and metric summaries
@@ -68,23 +61,17 @@ requirements.txt → Python dependencies
 
 ## ▶️ How to Run
 
-✅ 5) Add “How to Run” Block
-
-Right after the structure:
-
-## ▶️ How to Run
-
 1. Clone the repo:
    ```bash
    git clone https://github.com/drbaijsingh/CMAPSS-LSTM-RUL-Prediction.git
 
 
-Install dependencies:
+2. Install dependencies:
 
 pip install -r requirements.txt
 
 
-Download CMAPSS data as documented in data/README.md
+3. Download CMAPSS data as documented in data/README.md
 
 Open the appropriate notebook and run
 
