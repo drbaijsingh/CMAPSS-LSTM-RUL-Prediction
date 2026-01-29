@@ -6,6 +6,8 @@
 
 # 🔧 Remaining Useful Life (RUL) Prediction on NASA CMAPSS
 
+### 🚀 Predictive Maintenance | Time-Series Deep Learning | LSTM
+
 ## 🎯 Why This Project Matters
 
 Predicting the Remaining Useful Life (RUL) of complex systems like aircraft engines is a core task in predictive maintenance. Accurate RUL prediction helps reduce unplanned downtime, optimize maintenance schedules, and cut costs in industrial assets.
@@ -46,15 +48,15 @@ The project focuses on correct data parsing, RUL computation, sequence modeling,
 
 ## ✅ Results Summary
 
-| Dataset | Difficulty Level | Test MAE (cycles) |
-|---------|------------------|-------------------|
-| **FD001** | Easy | **≈ 11** |
+| Dataset | Difficulty | Test MAE (± cycles) |
+|---------|------------|---------------------|
+| **FD001** | Easy | ≈ **11** |
 | **FD002** | Medium | < 20 |
 | **FD003** | Medium | < 20 |
 | **FD004** | Hard | < 20 |
 
-> All results follow NASA-standard engine-wise evaluation.
-These results are comparable with strong baseline models reported in CMAPSS literature.
+> Results use NASA standard evaluation (engine-wise).
+
 
 ---
 
