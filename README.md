@@ -8,11 +8,9 @@
 
 ### 🚀 Predictive Maintenance | Time-Series Deep Learning | LSTM
 
+## 🎯 Why This Project Matters
 
-# CMAPSS-LSTM-RUL-Prediction
-# 🔧 Remaining Useful Life (RUL) Prediction on NASA CMAPSS Dataset
-
-🚀 **Predictive Maintenance | Time-Series Deep Learning | LSTM**
+Predicting Remaining Useful Life (RUL) is a core task in predictive maintenance — helping industries anticipate failures, minimize downtime, and reduce costs. This repository provides a comprehensive and reproducible benchmark across all CMAPSS subsets (FD001–FD004) using LSTM, adhering to NASA-standard evaluation practices.
 
 ## 📌 Overview
 This repository presents a unified LSTM-based framework for predicting the Remaining Useful Life (RUL) of turbofan engines using the NASA CMAPSS dataset. All four subsets (FD001–FD004) are evaluated using a consistent and reproducible pipeline.
