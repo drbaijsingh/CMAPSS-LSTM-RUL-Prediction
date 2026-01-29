@@ -6,12 +6,15 @@
 
 # 🔧 Remaining Useful Life (RUL) Prediction on NASA CMAPSS
 
-### 🚀 Predictive Maintenance | Time-Series Deep Learning | LSTM
-
-
 ## 🎯 Why This Project Matters
 
-Predicting Remaining Useful Life (RUL) is a core task in predictive maintenance — helping industries anticipate failures, minimize downtime, and reduce costs. This repository provides a comprehensive and reproducible benchmark across all CMAPSS subsets (FD001–FD004) using LSTM, adhering to NASA-standard evaluation practices.
+Predicting the Remaining Useful Life (RUL) of complex systems like aircraft engines is a core task in predictive maintenance. Accurate RUL prediction helps reduce unplanned downtime, optimize maintenance schedules, and cut costs in industrial assets.
+
+This repository provides:
+- A reproducible LSTM pipeline for all NASA CMAPSS subsets (FD001–FD004)
+- NASA-standard engine-wise performance evaluation
+- Strong results across multiple operating and fault conditions
+
 
 ## 📌 Overview
 This repository presents a unified LSTM-based framework for predicting the Remaining Useful Life (RUL) of turbofan engines using the NASA CMAPSS dataset. All four subsets (FD001–FD004) are evaluated using a consistent and reproducible pipeline.
