@@ -48,13 +48,16 @@ The project focuses on correct data parsing, RUL computation, sequence modeling,
 
 ## ✅ Results Summary
 
-| Dataset | Test MAE (cycles) |
-|------|----------------|
-| FD001 | ≈ **11** |
-| FD002 | < 20 |
-| FD003 | < 20 |
-| FD004 | < 20 |
+## ✅ Results Summary
 
+| Dataset | Difficulty Level | Test MAE (cycles) |
+|---------|------------------|-------------------|
+| **FD001** | Easy | **≈ 11** |
+| **FD002** | Medium | < 20 |
+| **FD003** | Medium | < 20 |
+| **FD004** | Hard | < 20 |
+
+> All results follow NASA-standard engine-wise evaluation.
 These results are comparable with strong baseline models reported in CMAPSS literature.
 
 ---
