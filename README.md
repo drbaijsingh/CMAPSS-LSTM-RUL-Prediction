@@ -2,7 +2,7 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-Deep%20Learning-orange)
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
-![Topic](https://img.shields.io/badge/Domain-Predictive%20Maintenance-purple)
+![Domain](https://img.shields.io/badge/Domain-Predictive%20Maintenance-purple)
 
 # 🔧 Remaining Useful Life (RUL) Prediction on NASA CMAPSS
 
