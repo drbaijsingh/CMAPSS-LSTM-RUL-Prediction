@@ -3,9 +3,11 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 ![Domain](https://img.shields.io/badge/Domain-Predictive%20Maintenance-purple)
+
 # 🔧 Remaining Useful Life (RUL) Prediction on NASA CMAPSS
 
 ### 🚀 Predictive Maintenance | Time-Series Deep Learning | LSTM
+
 
 # CMAPSS-LSTM-RUL-Prediction
 # 🔧 Remaining Useful Life (RUL) Prediction on NASA CMAPSS Dataset
