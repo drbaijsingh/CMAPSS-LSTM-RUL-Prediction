@@ -1,3 +1,10 @@
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-Deep%20Learning-orange)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+![Domain](https://img.shields.io/badge/Domain-Predictive%20Maintenance-purple)
+
+
 # CMAPSS-LSTM-RUL-Prediction
 # 🔧 Remaining Useful Life (RUL) Prediction on NASA CMAPSS Dataset
 
